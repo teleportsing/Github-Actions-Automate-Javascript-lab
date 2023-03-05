@@ -1,0 +1,19 @@
+{
+  "name": "github-actions-automate-javascript-lab",
+  "version": "1.0.0",
+  "description": "Github Actions are an awesome tool from Github that allows us to automate tasks using code-based workflow configuration files. There's also a large marketplace that comes stocked with many useful tools that are ready out of the box.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teleportsing/Github-Actions-Automate-Javascript-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teleportsing/Github-Actions-Automate-Javascript-lab/issues"
+  },
+  "homepage": "https://github.com/teleportsing/Github-Actions-Automate-Javascript-lab#readme"
+}
